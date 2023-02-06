@@ -21,4 +21,4 @@
   <a href="https://gabrielrochadev.com.br" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
 </div>
   
-![Snake animation](https://github.com/Gabee-Rocha/gabee-rocha/blob/main/.github/workflows/cobrinha.yml)
+![Snake animation](https://github.com/Gabee-Rocha/gabee-rocha/blob/output/github-contrinution-grid-snake.svg
